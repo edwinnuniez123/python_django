@@ -1,0 +1,10 @@
+nombre = input("¿Cómo te llamas? ")
+nombre_swaped = nombre.swapcase()
+print(nombre)
+print(nombre_swaped)
+print(nombre_swaped)
+
+name = input("¿Cómo te llamas2? ")
+print(name.lower())
+print(name.upper())
+print(name.title())
